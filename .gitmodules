@@ -1,0 +1,24 @@
+[submodule "digikey-kicad-library"]
+	path = digikey-kicad-library
+	url = git@github.com:Digi-Key/digikey-kicad-library.git
+[submodule "digikey-partner-kicad-library"]
+	path = digikey-partner-kicad-library
+	url = git@github.com:Digi-Key/digikey-partner-kicad-library.git
+[submodule "kicad-libs"]
+	path = kicad-libs
+	url = git@github.com:sgreg/kicad-libs.git
+[submodule "teensy_library"]
+	path = teensy_library
+	url = git@github.com:XenGi/teensy_library.git
+[submodule "teensy.pretty"]
+	path = teensy.pretty
+	url = git@github.com:XenGi/teensy.pretty.git
+[submodule "Adafruit-Eagle-Library.kicad"]
+	path = Adafruit-Eagle-Library.kicad
+	url = git@github.com:ryanfobel/Adafruit-Eagle-Library.kicad.git
+[submodule "SparkFun-KiCad-Libraries"]
+	path = SparkFun-KiCad-Libraries
+	url = git@github.com:sparkfun/SparkFun-KiCad-Libraries.git
+[submodule "Adafruit-Feather-ESP8266-HUZZAH-PCB"]
+	path = Adafruit-Feather-ESP8266-HUZZAH-PCB
+	url = git@github.com:adafruit/Adafruit-Feather-ESP8266-HUZZAH-PCB.git
